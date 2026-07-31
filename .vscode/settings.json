@@ -1,0 +1,12 @@
+{
+    "java.completion.importOrder": [
+
+        "#",
+        "java",
+        "javax",
+        "org",
+        "com",
+        ""
+    ],
+    "java.updateImportsOnPaste.enabled": true
+}
