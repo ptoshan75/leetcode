@@ -2,7 +2,7 @@
 
 import java.util.HashSet;
 
-class Solution {
+class ContainsDuplicate {
     public boolean containsDuplicate(int[] nums) {
         
         HashSet<Integer> vnums = new HashSet<>();

@@ -1,6 +1,6 @@
 //Leetcode Number 2390
 
-class Solution {
+class RemovingStarsFromString {
     public String removeStars(String s) {
 
         StringBuilder sb = new StringBuilder("");

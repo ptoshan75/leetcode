@@ -2,7 +2,7 @@
 
 import java.util.HashMap;
 
-class Solution {
+class RansomNote {
     public boolean canConstruct(String ransomNote, String magazine) {
         
         /*ArrayList<Character> mag = new ArrayList<>();

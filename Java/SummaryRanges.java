@@ -3,7 +3,7 @@
 import java.util.ArrayList;
 import java.util.List;
 
-class Solution {
+class SummaryRanges {
     public List<String> summaryRanges(int[] nums) {
         ArrayList<String> arr = new ArrayList<>();
 

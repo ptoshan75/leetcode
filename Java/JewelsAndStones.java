@@ -1,6 +1,6 @@
 //Leetcode Number 771
 
-class Solution {
+class JewelsAndStones {
     public int numJewelsInStones(String jewels, String stones) {
 
         int count = 0;

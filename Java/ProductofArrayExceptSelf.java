@@ -1,6 +1,6 @@
 //Leetcode Number 238
 
-class Solution {
+class ProductOfArrayExceptSelf {
     public int[] productExceptSelf(int[] nums) {
         
         int product = 1;

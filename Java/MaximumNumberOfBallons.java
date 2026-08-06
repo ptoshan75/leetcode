@@ -2,7 +2,7 @@
 
 import java.util.HashMap;
 
-class Solution {
+class MaximumNumberOfBallons {
     public int maxNumberOfBalloons(String text) {
         
         HashMap<Character, Integer> count = new HashMap<>();
