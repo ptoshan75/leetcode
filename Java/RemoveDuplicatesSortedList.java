@@ -10,7 +10,7 @@
  *     ListNode(int val, ListNode next) { this.val = val; this.next = next; }
  * }
  */
-class RemoveDuplicatesSortedList {
+/*class RemoveDuplicatesSortedList {
     public ListNode deleteDuplicates(ListNode head) {
         
         ListNode current = head;
@@ -27,4 +27,4 @@ class RemoveDuplicatesSortedList {
         return head;
 
     }
-}
+}*/
